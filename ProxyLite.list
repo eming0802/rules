@@ -1,8 +1,6 @@
 # 代理列表
 
 # MyList && Other
-DOMAIN-SUFFIX,1password.com
-DOMAIN-SUFFIX,adguard.org
 DOMAIN-SUFFIX,bit.no.com
 DOMAIN-SUFFIX,btlibrary.me
 DOMAIN-SUFFIX,cccat.io
@@ -12,7 +10,6 @@ DOMAIN-SUFFIX,gameloft.com
 DOMAIN-SUFFIX,garena.com
 DOMAIN-SUFFIX,hoyolab.com
 DOMAIN-SUFFIX,inoreader.com
-DOMAIN-SUFFIX,ip138.com
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,myteamspeak.com
 DOMAIN-SUFFIX,notion.so
@@ -25,7 +22,6 @@ DOMAIN-SUFFIX,unsplash.com
 
 # 国外域名
 DOMAIN-SUFFIX,eu
-DOMAIN-SUFFIX,hk
 DOMAIN-SUFFIX,jp
 DOMAIN-SUFFIX,kr
 DOMAIN-SUFFIX,sg
@@ -73,7 +69,6 @@ DOMAIN-SUFFIX,awsstatic.com
 DOMAIN-SUFFIX,azureedge.net
 DOMAIN-SUFFIX,azurewebsites.net
 DOMAIN-SUFFIX,bandwagonhost.com
-DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,bkrtx.com
 DOMAIN-SUFFIX,blogcdn.com
 DOMAIN-SUFFIX,blogger.com
@@ -364,6 +359,7 @@ DOMAIN-SUFFIX,xnxx.com
 DOMAIN-SUFFIX,xvideos-cdn.com
 DOMAIN-SUFFIX,xvideos.com
 DOMAIN-SUFFIX,ypncdn.com
+DOMAIN-SUFFIX,lvv2.com
 
 # Pixiv
 DOMAIN-SUFFIX,pixiv.net
@@ -377,8 +373,6 @@ DOMAIN-SUFFIX,readdle.com
 DOMAIN-SUFFIX,smartmailcloud.com
 
 # Steam
-DOMAIN-SUFFIX,fanatical.com
-DOMAIN-SUFFIX,humblebundle.com
 DOMAIN-SUFFIX,underlords.com
 DOMAIN-SUFFIX,valvesoftware.com
 DOMAIN-SUFFIX,playartifact.com
@@ -462,10 +456,9 @@ DOMAIN-SUFFIX,wikiversity.org
 DOMAIN-SUFFIX,wikivoyage.org
 DOMAIN-SUFFIX,wiktionary.org
 
-#飞流直播
-DOMAIN-SUFFIX,neulion.com
-DOMAIN-SUFFIX,icntv.xyz
-DOMAIN-SUFFIX,flzbcdn.xyz
-
-#华文电视
-DOMAIN-SUFFIX,ocnttv.com
+#其它
+DOMAIN-SUFFIX,jsdelivr.net
+DOMAIN-SUFFIX,zodgame.xyz
+DOMAIN-SUFFIX,mzfast.com
+DOMAIN-SUFFIX,git.openwrt.org
+DOMAIN-SUFFIX,w37fhy.com
