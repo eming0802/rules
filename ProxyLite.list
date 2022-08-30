@@ -19,6 +19,11 @@ DOMAIN-SUFFIX,teddysun.com
 DOMAIN-SUFFIX,tumbex.com
 DOMAIN-SUFFIX,twdvd.com
 DOMAIN-SUFFIX,unsplash.com
+DOMAIN-SUFFIX,jsdelivr.net
+DOMAIN-SUFFIX,zodgame.xyz
+DOMAIN-SUFFIX,mzfast.com
+DOMAIN-SUFFIX,git.openwrt.org
+DOMAIN-SUFFIX,w37fhy.com
 
 # 国外域名
 DOMAIN-SUFFIX,eu
@@ -454,9 +459,3 @@ DOMAIN-SUFFIX,wikiversity.org
 DOMAIN-SUFFIX,wikivoyage.org
 DOMAIN-SUFFIX,wiktionary.org
 
-#其它
-DOMAIN-SUFFIX,jsdelivr.net
-DOMAIN-SUFFIX,zodgame.xyz
-DOMAIN-SUFFIX,mzfast.com
-DOMAIN-SUFFIX,git.openwrt.org
-DOMAIN-SUFFIX,w37fhy.com
