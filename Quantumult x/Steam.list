@@ -1,11 +1,3 @@
-# NAME: Steam
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-08-22 02:28:06
-# HOST: 7
-# HOST-KEYWORD: 3
-# HOST-SUFFIX: 37
-# TOTAL: 47
 HOST,steambroadcast.akamaized.net,Steam
 HOST,steamcdn-a.akamaihd.net,Steam
 HOST,steamcommunity-a.akamaihd.net,Steam
@@ -13,15 +5,8 @@ HOST,steampipe.akamaized.net,Steam
 HOST,steamstore-a.akamaihd.net,Steam
 HOST,steamusercontent-a.akamaihd.net,Steam
 HOST,steamuserimages-a.akamaihd.net,Steam
-HOST-SUFFIX,cdn-ali.content.steamchina.com,Steam
-HOST-SUFFIX,cdn-qc.content.steamchina.com,Steam
-HOST-SUFFIX,cdn-ws.content.steamchina.com,Steam
-HOST-SUFFIX,csgo.wmsj.cn,Steam
 HOST-SUFFIX,dl.steam.clngaa.com,Steam
 HOST-SUFFIX,dl.steam.ksyna.com,Steam
-HOST-SUFFIX,dota2.wmsj.cn,Steam
-HOST-SUFFIX,fanatical.com,Steam
-HOST-SUFFIX,humblebundle.com,Steam
 HOST-SUFFIX,playartifact.com,Steam
 HOST-SUFFIX,s.team,Steam
 HOST-SUFFIX,st.dl.bscstorage.net,Steam
