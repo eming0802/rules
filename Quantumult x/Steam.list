@@ -16,7 +16,7 @@ HOST-SUFFIX,steampipe.akamaized.net,Steam
 HOST-SUFFIX,steampowered.com,Steam
 HOST-SUFFIX,steamserver.net,Steam
 HOST-SUFFIX,steamstat.us,Steam
-HOST-SUFFIX,steamstatic.com,Steam
+HOST-SUFFIX,akamai.steamstatic.com, Steam
 HOST-SUFFIX,steamstore-a.akamaihd.net,Steam
 HOST-SUFFIX,steamunlocked.net,Steam
 HOST-SUFFIX,steamusercontent-a.akamaihd.net,Steam
