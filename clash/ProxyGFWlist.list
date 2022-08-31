@@ -1,8 +1,6 @@
 # 代理列表
 
 # MyList && Other
-DOMAIN-SUFFIX,1password.com
-DOMAIN-SUFFIX,adguard.org
 DOMAIN-SUFFIX,bit.no.com
 DOMAIN-SUFFIX,btlibrary.me
 DOMAIN-SUFFIX,cccat.io
@@ -24,7 +22,6 @@ DOMAIN-SUFFIX,unsplash.com
 
 # 国外域名
 DOMAIN-SUFFIX,eu
-DOMAIN-SUFFIX,hk
 DOMAIN-SUFFIX,jp
 DOMAIN-SUFFIX,kr
 DOMAIN-SUFFIX,sg
@@ -6139,6 +6136,8 @@ DOMAIN-SUFFIX,xnxx.com
 DOMAIN-SUFFIX,xvideos-cdn.com
 DOMAIN-SUFFIX,xvideos.com
 DOMAIN-SUFFIX,ypncdn.com
+DOMAIN-SUFFIX,lvv2.com
+
 
 # Pixiv
 DOMAIN-SUFFIX,pixiv.net
@@ -6152,11 +6151,7 @@ DOMAIN-SUFFIX,readdle.com
 DOMAIN-SUFFIX,smartmailcloud.com
 
 # Steam
-DOMAIN-SUFFIX,fanatical.com
-DOMAIN-SUFFIX,humblebundle.com
-DOMAIN-SUFFIX,underlords.com
 DOMAIN-SUFFIX,valvesoftware.com
-DOMAIN-SUFFIX,playartifact.com
 DOMAIN-SUFFIX,steam-chat.com
 DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,steamgames.com
