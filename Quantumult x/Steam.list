@@ -1,7 +1,8 @@
-HOST-SUFFIX,api.steampowered.com
+
 HOST-SUFFIX,valvesoftware.com
 HOST-SUFFIX,steam-chat.com
 HOST-SUFFIX,store.steampowered.com
+HOST-SUFFIX,api.steampowered.com
 HOST-SUFFIX,steamstore-a.akamaihd.net
 HOST-SUFFIX,steamcommunity.com
 HOST-SUFFIX,steamcommunity-a.akamaihd.net
