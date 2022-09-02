@@ -24,6 +24,9 @@ DOMAIN-SUFFIX,zodgame.xyz
 DOMAIN-SUFFIX,mzfast.com
 DOMAIN-SUFFIX,git.openwrt.org
 DOMAIN-SUFFIX,w37fhy.com
+DOMAIN-SUFFIX,ubisoft-uplay-savegames.s3.amazonaws.com
+DOMAIN-SUFFIX,ubisoft-orbit-savegames.s3.amazonaws.com
+DOMAIN-SUFFIX,cloudsync-prod.s3.amazonaws.com
 
 # 国外域名
 DOMAIN-SUFFIX,eu
