@@ -36,7 +36,8 @@ DOMAIN-SUFFIX,gamersgateb.imgix.net
 DOMAIN-SUFFIX,greenmangaming.com
 DOMAIN-SUFFIX,greenmandigital.cn
 DOMAIN-SUFFIX,sonkwo.hk
-DOMAIN-SUFFIX,
+DOMAIN-SUFFIX,epicgamesdb.info
+DOMAIN-SUFFIX,steamdb.info
 
 ## >> steam
 DOMAIN,csgo.wmsj.cn
@@ -54,6 +55,9 @@ DOMAIN-SUFFIX,cm.steampowered.com
 DOMAIN-SUFFIX,steamchina.com
 DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,steamusercontent.com
+DOMAIN-SUFFIX,cloudflare.steamstatic.com
+DOMAIN-SUFFIX,media.steampowered.com
+DOMAIN-SUFFIX,client-download.steampowered.com
 
 ## >> EPIC
 DOMAIN-SUFFIX,battlebreakers.com
