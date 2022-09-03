@@ -3,7 +3,6 @@
 #DOMAIN-SUFFIX,akamaistream.net,PROXY
 #DOMAIN-SUFFIX,akamaized.net,PROXY
 DOMAIN-SUFFIX,jsdelivr.net,PROXY
-DOMAIN-SUFFIX,bing.com,PROXY
 DOMAIN-SUFFIX,w37fhy.com,PROXY
 DOMAIN-SUFFIX,zodgame.xyz,PROXY
 DOMAIN-SUFFIX,mzfast.com,PROXY
