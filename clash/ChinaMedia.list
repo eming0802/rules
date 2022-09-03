@@ -8,6 +8,7 @@
 # IP-CIDR: 28
 # PROCESS-NAME: 6
 # TOTAL: 258
+
 DOMAIN,0gr4uqmtt8y41hcjsgrzdrc31.ourdvsss.com
 DOMAIN,0gr4uqmtt8y41hcjsgrzdrc3s.ourdvsss.com
 DOMAIN,0gr4uqmtt8y41hcjsgrzdrc3z.ourdvsss.com
@@ -64,6 +65,16 @@ DOMAIN,api.iplay.163.com
 DOMAIN,aqqmusic.tc.qq.com
 DOMAIN,mam.netease.com
 DOMAIN,moo.qq.com
+DOMAIN-SUFFIX,ddys.tv
+DOMAIN-SUFFIX,ddys.me
+DOMAIN-SUFFIX,bdys01.com
+DOMAIN-SUFFIX,libvio.me
+DOMAIN-SUFFIX,libvio.fun
+DOMAIN-SUFFIX,dsxys.pro
+DOMAIN-SUFFIX,btnull.re
+DOMAIN-SUFFIX,btnull.in
+DOMAIN-SUFFIX,tkys6.com
+DOMAIN-SUFFIX,gimy.app
 DOMAIN-SUFFIX,acg.tv
 DOMAIN-SUFFIX,acgvideo.com
 DOMAIN-SUFFIX,b23.tv
