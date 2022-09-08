@@ -60,6 +60,10 @@ DOMAIN,logincdn.msauth.net
 DOMAIN-SUFFIX,ubi.com
 DOMAIN-SUFFIX,ubisoft.com
 DOMAIN-SUFFIX,uplay.com
+DOMAIN-SUFFIX,ubisoft-avatars.akamaized.net
+DOMAIN-SUFFIX,ubistatic-a.akamaihd.net
+DOMAIN-SUFFIX,ubistatic2-a.akamaihd.net
+DOMAIN-SUFFIX,ubistatic3-a.akamaihd.net
 
 ## > EA&Origin
 DOMAIN-SUFFIX,ea.com
