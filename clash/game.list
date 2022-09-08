@@ -20,27 +20,6 @@ DOMAIN,assets2.xboxlive.com
 DOMAIN-SUFFIX,dyn.riotcdn.net
 DOMAIN-SUFFIX,cdn.ubi.com
 
-
-# >> Other
-DOMAIN-SUFFIX,humblebundle.com
-DOMAIN-SUFFIX,hb.imgix.net
-DOMAIN-SUFFIX,gog.com
-DOMAIN-SUFFIX,gog-statics.com
-DOMAIN-SUFFIX,gog.qtlglb.com
-DOMAIN-SUFFIX,fanatical.com
-DOMAIN-SUFFIX,fanatical.imgix.net
-DOMAIN-SUFFIX,chinaplay.store
-DOMAIN-SUFFIX,tumajimu.com
-DOMAIN-SUFFIX,gamersgate.com
-DOMAIN-SUFFIX,gamersgateb.imgix.net
-DOMAIN-SUFFIX,greenmangaming.com
-DOMAIN-SUFFIX,greenmandigital.cn
-DOMAIN-SUFFIX,sonkwo.hk
-DOMAIN-SUFFIX,epicgamesdb.info
-DOMAIN-SUFFIX,steamdb.info
-DOMAIN-SUFFIX,plati.ru
-DOMAIN-SUFFIX,plati.market
-
 ## >> steam
 DOMAIN,dl.steam.clngaa.com
 DOMAIN,dl.steam.ksyna.com
@@ -64,9 +43,7 @@ DOMAIN-SUFFIX,helpshift.com
 DOMAIN-SUFFIX,paragon.com
 DOMAIN-SUFFIX,unrealengine.com
 
-
 ## >> xbox
-
 DOMAIN-SUFFIX,xbox.com
 DOMAIN-SUFFIX,xboxab.com
 DOMAIN-SUFFIX,xboxab.net
@@ -81,87 +58,13 @@ DOMAIN,logincdn.msauth.net
 
 ## >> UBI
 DOMAIN-SUFFIX,ubi.com
-DOMAIN-SUFFIX,ubisoft-orbit-savegames.s3.amazonaws.com
-DOMAIN-SUFFIX,ubisoft-uplay-savegames.s3.amazonaws.com
 DOMAIN-SUFFIX,ubisoft.com
 DOMAIN-SUFFIX,uplay.com
 
-## > EA
-## >> Origin
-DOMAIN-SUFFIX,origin.com
-DOMAIN-SUFFIX,cloudsync-prod.s3.amazonaws.com
-DOMAIN-SUFFIX,origin-a.akamaihd.net
-DOMAIN-SUFFIX,rtm.tnt-ea.com
-DOMAIN-SUFFIX,ssl-lvlt.cdn.ea.com
-DOMAIN-SUFFIX,dawngate.com
-DOMAIN-SUFFIX,eastore.com
-DOMAIN-SUFFIX,lordofultima.com
-DOMAIN-SUFFIX,origin.tv
-
-## > EA-Others
-DOMAIN-SUFFIX,awayoutgame.com
-DOMAIN-SUFFIX,battlefront2.com
-DOMAIN-SUFFIX,battlefrontii.com
-DOMAIN-SUFFIX,bejewled-stars.com
-DOMAIN-SUFFIX,bejeweledstars.com
-DOMAIN-SUFFIX,chillingo.com
-DOMAIN-SUFFIX,conquerwithcharacter.com
-DOMAIN-SUFFIX,crysis.jp
+## > EA&Origin
 DOMAIN-SUFFIX,ea.com
-DOMAIN-SUFFIX,eacashcard.com
-DOMAIN-SUFFIX,easports.com
-DOMAIN-SUFFIX,easports.jp
-DOMAIN-SUFFIX,electronicarts.com
-DOMAIN-SUFFIX,electronicarts.fr
-DOMAIN-SUFFIX,futpromos.com
-DOMAIN-SUFFIX,hutpromos.com
-DOMAIN-SUFFIX,maddenchampionship.com
-DOMAIN-SUFFIX,maddenseason.info
-DOMAIN-SUFFIX,maddenseason.net
-DOMAIN-SUFFIX,maddenseason.org
-DOMAIN-SUFFIX,playapex.com
-DOMAIN-SUFFIX,pogo.com
-DOMAIN-SUFFIX,pogobeta.com
-DOMAIN-SUFFIX,popcap.com
-DOMAIN-SUFFIX,starwarsbattlefront.com
-DOMAIN-SUFFIX,starwarsbattlefront2.com
-DOMAIN-SUFFIX,tnt-ea.com
-DOMAIN-SUFFIX,visceralgames.com
-DOMAIN-SUFFIX,battlefieldbadcompany2.com
-DOMAIN-SUFFIX,capitalgames.com
-DOMAIN-SUFFIX,dawngatechronicles.com
-DOMAIN-SUFFIX,dicela.com
-DOMAIN-SUFFIX,dicela.net
-DOMAIN-SUFFIX,ea-anz-press.com
-DOMAIN-SUFFIX,eaaccess.com
-DOMAIN-SUFFIX,eacodigos.com
-DOMAIN-SUFFIX,eakorea.co.kr
-DOMAIN-SUFFIX,eamobile.com
-DOMAIN-SUFFIX,eanordic.com
-DOMAIN-SUFFIX,eaplay.com
-DOMAIN-SUFFIX,easportsactive.com
-DOMAIN-SUFFIX,easportsactiveonline.com
-DOMAIN-SUFFIX,easportsfootball.com
-DOMAIN-SUFFIX,easportsfootballclub.com
-DOMAIN-SUFFIX,easportsmma.com
-DOMAIN-SUFFIX,easportsworld.com
-DOMAIN-SUFFIX,futunited.com
-DOMAIN-SUFFIX,ghostgames.com
-DOMAIN-SUFFIX,heroesofdragonage.com
-DOMAIN-SUFFIX,maddenrewards.com
-DOMAIN-SUFFIX,maxis.com
-DOMAIN-SUFFIX,mysimsracing.com
-DOMAIN-SUFFIX,play4free.com
-DOMAIN-SUFFIX,speedhunters.com
-DOMAIN-SUFFIX,spore.com
-DOMAIN-SUFFIX,ssx3.com
-DOMAIN-SUFFIX,tiburon.com
-DOMAIN-SUFFIX,ultimaforever.com
-DOMAIN-SUFFIX,unravel2.com
-DOMAIN-SUFFIX,unraveltwo.com
-DOMAIN-SUFFIX,yogify.com
-DOMAIN-SUFFIX,ea.tt.omtrdc.net
-DOMAIN-SUFFIX,eaassets-a.akamaihd.net
+DOMAIN-SUFFIX,origin.com
+DOMAIN-SUFFIX,origin-a.akamaihd.net
 
 # >> Rockstar
 DOMAIN-SUFFIX,gamedownloads-rockstargames-com.akamaized.net
@@ -175,3 +78,23 @@ DOMAIN-SUFFIX,playstation.com
 DOMAIN-SUFFIX,playstation.net
 DOMAIN-SUFFIX,playstationnetwork.com
 DOMAIN-SUFFIX,sonyentertainmentnetwork.com
+
+# >> Other
+DOMAIN-SUFFIX,humblebundle.com
+DOMAIN-SUFFIX,hb.imgix.net
+DOMAIN-SUFFIX,gog.com
+DOMAIN-SUFFIX,gog-statics.com
+DOMAIN-SUFFIX,gog.qtlglb.com
+DOMAIN-SUFFIX,fanatical.com
+DOMAIN-SUFFIX,fanatical.imgix.net
+DOMAIN-SUFFIX,chinaplay.store
+DOMAIN-SUFFIX,tumajimu.com
+DOMAIN-SUFFIX,gamersgate.com
+DOMAIN-SUFFIX,gamersgateb.imgix.net
+DOMAIN-SUFFIX,greenmangaming.com
+DOMAIN-SUFFIX,greenmandigital.cn
+DOMAIN-SUFFIX,sonkwo.hk
+DOMAIN-SUFFIX,epicgamesdb.info
+DOMAIN-SUFFIX,steamdb.info
+DOMAIN-SUFFIX,plati.ru
+DOMAIN-SUFFIX,plati.market
