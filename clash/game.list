@@ -42,6 +42,7 @@ DOMAIN-SUFFIX,epicgames.com
 DOMAIN-SUFFIX,helpshift.com
 DOMAIN-SUFFIX,paragon.com
 DOMAIN-SUFFIX,unrealengine.com
+DOMAIN-SUFFIX,epicgames.dev
 
 ## >> xbox
 DOMAIN-SUFFIX,xbox.com
