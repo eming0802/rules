@@ -1,8 +1,8 @@
 # MyList && Other
-DOMAIN,is.gd
-DOMAIN,shrtm.nu
+DOMAIN-SUFFIX,is.gd
+DOMAIN-SUFFIX,shrtm.nu
 DOMAIN-SUFFIX,jable.tv
-DOMAIN,sub-store.vercel.app
+DOMAIN-SUFFIX,sub-store.vercel.app
 DOMAIN-SUFFIX,zodgame.xyz
 DOMAIN-SUFFIX,temp-mail.io
 DOMAIN-SUFFIX,ahhhhfs.com
