@@ -11,5 +11,5 @@
 #大师兄去开屏去弹窗
 ^https?:\/\/sdk\.alibaba\.com\.ailbaba\.me\/xgapp\.php\/v3\/top_notice? url reject
 ^https?:\/\/sdk\.alibaba\.com\.ailbaba\.me\/xgapp\.php\/v3\/advert.position.[^2](?<=position..) url reject
-hostname = sdk.alibaba.com.ailbaba.me,vip7.fzwdyy.cn,pzoap.moedot.net,js-ad.ayximgs.com,pipi.4kya.com
+hostname = sdk.alibaba.com.ailbaba.me,vip7.fzwdyy.cn,pzoap.moedot.net,js-ad.ayximgs.com,pipi.4kya.com,103.91.210.141:2515
 
