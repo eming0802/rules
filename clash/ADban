@@ -7,7 +7,7 @@
 #稀饭动漫去弹窗
 ^https?:\/\/pzoap\.moedot\.net\/xgapp\.php\/v2\/top_notice? url reject
 #鸭奈飞去开屏广告
-^http?:\/\/pipi\.4kya\.com/\/xgapp\.php\/v3\/advert.position.[^2](?<=position..) url reject
+^https?:\/\/pipi\.4kya\.com/\/xgapp\.php\/v3\/advert.position.[^2](?<=position..) url reject
 #大师兄去开屏去弹窗
 ^https?:\/\/sdk\.alibaba\.com\.ailbaba\.me\/xgapp\.php\/v3\/top_notice? url reject
 ^https?:\/\/sdk\.alibaba\.com\.ailbaba\.me\/xgapp\.php\/v3\/advert.position.[^2](?<=position..) url reject
