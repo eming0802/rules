@@ -1,7 +1,7 @@
 let obj = JSON.parse($response.body);
 
 obj = {
-  "message": "公告列表",
+  "message": "请求成功",
   "data": [
   ],
   "code": 20000
