@@ -9,13 +9,10 @@ obj = {
       "download_url" : "https://azx.me/",
       "share_link_content" : "#url 海量视频等你来看。注册填写邀请码#code 送10元现金红包。",
       "video_url_template" : ""
-    },
-    "find_config" : {
-      "title" : " ",
-      "url" : "  "
+
     },
     "history_config" : {
-      "type" : "0"
+      "type" : "1"
     },
     "contact_config" : {
       "prefix" : "",
