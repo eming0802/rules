@@ -32,7 +32,7 @@ obj = {
       "external_type" : "1"
     },
     "advert_config" : {
-      "config_start" : "0",
+      "config_start" : "1",
       "advert_sdk_open" : "0",
       "config_vip_advert" : "0",
       "config_mine_info" : "0",
