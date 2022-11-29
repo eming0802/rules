@@ -1,4 +1,5 @@
-{
+let obj = JSON.parse($response.body);
+obj = {
   "msg" : "app配置",
   "data" : {
     "share_config" : {
@@ -10,11 +11,11 @@
       "video_url_template" : ""
     },
     "find_config" : {
-      "title" : "酷搜",
-      "url" : "https://www.ressou.com/"
+      "title" : " ",
+      "url" : "  "
     },
     "history_config" : {
-      "type" : "0"
+      "type" : "1"
     },
     "contact_config" : {
       "prefix" : "",
@@ -80,3 +81,4 @@
   },
   "code" : 1
 }
+$done({body: JSON.stringify(obj)});
