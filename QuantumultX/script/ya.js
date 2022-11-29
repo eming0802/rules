@@ -3,11 +3,11 @@ obj = {
   "msg" : "app配置",
   "data" : {
     "share_config" : {
-      "app_invite_code_show" : "1",
+      "app_invite_code_show" : "0",
       "app_share_img" : "https://sf1-scmcdn-tos.pstatp.com/obj/ad-tetris-site/file/1645033070725/88d45f7c59caa14fced50374e11917fc",
       "video_share_mode" : "1",
       "download_url" : "https://azx.me/",
-      "share_link_content" : "#url 海量视频等你来看。注册填写邀请码#code 送10元现金红包。",
+      "share_link_content" : "",
       "video_url_template" : ""
 
     },
@@ -28,7 +28,7 @@ obj = {
       "external_type" : "1"
     },
     "advert_config" : {
-      "config_start" : "1",
+      "config_start" : "0",
       "advert_sdk_open" : "0",
       "config_vip_advert" : "0",
       "config_mine_info" : "0",
