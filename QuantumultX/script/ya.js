@@ -1,5 +1,6 @@
 let obj = JSON.parse($response.body);
 obj = {
+  {
   "msg" : "app配置",
   "data" : {
     "share_config" : {
@@ -9,10 +10,13 @@ obj = {
       "download_url" : "https://azx.me/",
       "share_link_content" : "",
       "video_url_template" : ""
-
+    },
+    "find_config" : {
+      "title" : "",
+      "url" : ""
     },
     "history_config" : {
-      "type" : "1"
+      "type" : "null"
     },
     "contact_config" : {
       "prefix" : "",
