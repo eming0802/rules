@@ -12,7 +12,7 @@ obj = {
       "video_url_template" : ""
     },
     "find_config" : {
-      "title" : "",
+      "title" : "1",
       "url" : ""
     },
     "history_config" : {
