@@ -12,11 +12,11 @@ obj = {
       "video_url_template" : ""
     },
     "find_config" : {
-      "title" : "1",
+      "title" : "",
       "url" : ""
     },
     "history_config" : {
-      "type" : "null"
+      "type" : "1"
     },
     "contact_config" : {
       "prefix" : "",
@@ -32,7 +32,7 @@ obj = {
       "external_type" : "1"
     },
     "advert_config" : {
-      "config_start" : "1",
+      "config_start" : "0",
       "advert_sdk_open" : "0",
       "config_vip_advert" : "0",
       "config_mine_info" : "0",
