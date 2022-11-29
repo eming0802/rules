@@ -66,7 +66,7 @@ obj = {
     "pay_config" : {
       "pay_card_type" : "3",
       "pay_type" : "1",
-      "pay_list" : "9999999",
+      "pay_list" : "",
       "card_url" : null,
       "pay_platform" : "",
       "money_unit" : "元",
