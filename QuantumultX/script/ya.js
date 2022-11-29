@@ -4,7 +4,7 @@ obj = {
   "msg" : "app配置",
   "data" : {
     "share_config" : {
-      "app_invite_code_show" : "1",
+      "app_invite_code_show" : "0",
       "app_share_img" : "https://sf1-scmcdn-tos.pstatp.com/obj/ad-tetris-site/file/1645033070725/88d45f7c59caa14fced50374e11917fc",
       "video_share_mode" : "1",
       "download_url" : "https://azx.me/",
