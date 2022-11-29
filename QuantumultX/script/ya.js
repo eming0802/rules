@@ -15,7 +15,7 @@ obj = {
       "url" : "  "
     },
     "history_config" : {
-      "type" : "1"
+      "type" : "0"
     },
     "contact_config" : {
       "prefix" : "",
