@@ -1,8 +1,6 @@
 let obj = JSON.parse($response.body);
 
 obj = {
-  {
-  {
   "msg" : "app配置",
   "data" : {
     "share_config" : {
