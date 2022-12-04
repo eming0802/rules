@@ -34,7 +34,7 @@ obj = {
     },
     "advert_config" : {
       "config_start" : "1",
-      "advert_sdk_open" : "0",
+      "advert_sdk_open" : "1",
       "config_vip_advert" : "0",
       "config_mine_info" : "0",
       "config_video_close_advert_hour" : "0",
@@ -51,7 +51,7 @@ obj = {
       "config_index_alert" : "0"
     },
     "modules_config" : {
-#      "find" : "null",
+      "find" : "on",
       "weekday" : null,
       "download" : "on",
       "push_screen" : "on",
