@@ -13,8 +13,8 @@ obj = {
       "video_url_template" : ""
     },
     "find_config" : {
-      "title" : "酷搜",
-      "url" : "https://www.ressou.com/"
+      "title" : "",
+      "url" : ""
     },
     "history_config" : {
       "type" : "1"
