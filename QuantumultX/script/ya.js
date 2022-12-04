@@ -51,7 +51,7 @@ obj = {
       "config_index_alert" : "0"
     },
     "modules_config" : {
-      "find" : "null",
+#      "find" : "null",
       "weekday" : null,
       "download" : "on",
       "push_screen" : "on",
