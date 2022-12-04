@@ -2,6 +2,7 @@ let obj = JSON.parse($response.body);
 
 obj = {
   {
+  {
   "msg" : "app配置",
   "data" : {
     "share_config" : {
@@ -83,4 +84,5 @@ obj = {
   },
   "code" : 1
 }
+
 $done({body: JSON.stringify(obj)});
