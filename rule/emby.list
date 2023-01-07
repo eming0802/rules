@@ -8,8 +8,7 @@ DOMAIN,11.loseremby.org
 DOMAIN,play.acemby.org
 
 #cc公益
-ccemby
-DOMAIN,cc.ccemby.tk
+DOMAIN-KEYWORD,ccemby
 
 # MisakaF
 DOMAIN,cf2.misakaf.org
