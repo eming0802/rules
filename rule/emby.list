@@ -15,6 +15,6 @@ DOMAIN,cf2.misakaf.org
 DOMAIN,4837.misakaf.org
 
 #Polo
-DOMAIN,df.poloemby.xyz
-DOMAIN,happy.poloemby.xyz
-DOMAIN-SUFFIX,pololine.ml
+#DOMAIN,df.poloemby.xyz
+#DOMAIN,happy.poloemby.xyz
+#DOMAIN-SUFFIX,pololine.ml
