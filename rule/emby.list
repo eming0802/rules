@@ -2,22 +2,20 @@
 DOMAIN,1.4545.cf
 
 # 垃圾影音
-DOMAIN,11.loseremby.org
+DOMAIN-SUFFIX,loseremby.org
 
 # AcEmby
-DOMAIN,play.acemby.org
+DOMAIN-SUFFIX,acemby.org
 
 # CcEmby
 DOMAIN-KEYWORD,ccemby
 
 # MisakaF
-DOMAIN,cf2.misakaf.org
-DOMAIN,4837.misakaf.org
+DOMAIN-SUFFIX,misakaf.org
 
 #PoloEmby
-DOMAIN,df.poloemby.xyz
-DOMAIN,happy.poloemby.xyz
+DOMAIN-SUFFIX,poloemby.xyz
 DOMAIN-SUFFIX,pololine.ml
 
 #GfwEmby
-DOMAIN,nl-s1.gfwemby.org
+DOMAIN-SUFFIX,gfwemby.org
