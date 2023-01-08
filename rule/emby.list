@@ -18,3 +18,6 @@ DOMAIN,4837.misakaf.org
 DOMAIN,df.poloemby.xyz
 DOMAIN,happy.poloemby.xyz
 DOMAIN-SUFFIX,pololine.ml
+
+#GfwEmby
+DOMAIN,nl-s1.gfwemby.org
