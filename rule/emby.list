@@ -1,4 +1,4 @@
-# 佛系
+# 佛系Emby
 DOMAIN,1.4545.cf
 
 # 垃圾影音
@@ -7,14 +7,14 @@ DOMAIN,11.loseremby.org
 # AcEmby
 DOMAIN,play.acemby.org
 
-# cc公益
+# CcEmby
 DOMAIN-KEYWORD,ccemby
 
 # MisakaF
 DOMAIN,cf2.misakaf.org
 DOMAIN,4837.misakaf.org
 
-#Polo
+#PoloEmby
 DOMAIN,df.poloemby.xyz
 DOMAIN,happy.poloemby.xyz
 DOMAIN-SUFFIX,pololine.ml
