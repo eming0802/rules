@@ -1,3 +1,4 @@
+#影视
 DOMAIN-SUFFIX,ddys.art
 DOMAIN-SUFFIX,ddys.pro
 DOMAIN-SUFFIX,libvio.me
@@ -8,7 +9,10 @@ DOMAIN-SUFFIX,czzzu.com
 DOMAIN-SUFFIX,cupfox.app
 DOMAIN-SUFFIX,omocdn.net
 DOMAIN-SUFFIX,sdk.alibaba.com.ailbaba.me
+#其它
 DOMAIN-SUFFIX,outlook.com
 DOMAIN-SUFFIX,nvidia.com
 DOMAIN-SUFFIX,geforce.com
 DOMAIN-SUFFIX,ip-api.com
+
+DOMAIN-KEYWORD,ccemby
