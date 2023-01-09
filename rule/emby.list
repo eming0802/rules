@@ -13,6 +13,9 @@ DOMAIN-KEYWORD,ccemby
 # MisakaF
 DOMAIN-SUFFIX,misakaf.org
 
+#MJJEmby
+DOMAIN-SUFFIX,mjjemby.org
+
 #PoloEmby
 DOMAIN-SUFFIX,poloemby.xyz
 DOMAIN-SUFFIX,pololine.ml
