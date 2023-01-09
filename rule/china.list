@@ -1,4 +1,23 @@
-#影视
+# >>Emby流媒体
+# 佛系Emby
+DOMAIN,1.4545.cf
+# 垃圾影音
+DOMAIN-SUFFIX,loseremby.org
+# AcEmby
+DOMAIN-SUFFIX,acemby.org
+# CcEmby
+DOMAIN-KEYWORD,ccemby
+# MisakaF
+DOMAIN-SUFFIX,misakaf.org
+#MJJEmby
+DOMAIN-SUFFIX,mjjemby.org
+#PoloEmby
+DOMAIN-SUFFIX,poloemby.xyz
+DOMAIN-SUFFIX,pololine.ml
+#GfwEmby
+DOMAIN-SUFFIX,gfwemby.org
+
+# 影视
 DOMAIN-SUFFIX,ddys.art
 DOMAIN-SUFFIX,ddys.pro
 DOMAIN-SUFFIX,libvio.me
@@ -9,10 +28,9 @@ DOMAIN-SUFFIX,czzzu.com
 DOMAIN-SUFFIX,cupfox.app
 DOMAIN-SUFFIX,omocdn.net
 DOMAIN-SUFFIX,sdk.alibaba.com.ailbaba.me
-#其它
+
+# 其它
 DOMAIN-SUFFIX,outlook.com
 DOMAIN-SUFFIX,nvidia.com
 DOMAIN-SUFFIX,geforce.com
 DOMAIN-SUFFIX,ip-api.com
-
-DOMAIN-KEYWORD,ccemby
