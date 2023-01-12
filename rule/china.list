@@ -7,15 +7,15 @@ DOMAIN-SUFFIX,loseremby.org
 DOMAIN-SUFFIX,acemby.org
 # CcEmby
 DOMAIN-KEYWORD,ccemby
+# Misty
+#DOMAIN-SUFFIX,misty.ltd
 # MisakaF
 DOMAIN-SUFFIX,misakaf.org
-#MJJEmby
+# MJJEmby
 DOMAIN-SUFFIX,mjjemby.org
-#PoloEmby
+# PoloEmby
 DOMAIN-SUFFIX,poloemby.xyz
 DOMAIN-SUFFIX,pololine.ml
-#GfwEmby
-DOMAIN-SUFFIX,gfwemby.org
 
 # 影视
 DOMAIN-SUFFIX,ddys.art
