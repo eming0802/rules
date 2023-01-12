@@ -8,7 +8,7 @@ DOMAIN-SUFFIX,acemby.org
 # CcEmby
 DOMAIN-KEYWORD,ccemby
 # Misty
-#DOMAIN-SUFFIX,misty.ltd
+DOMAIN,misty.ltd
 # MisakaF
 DOMAIN-SUFFIX,misakaf.org
 # MJJEmby
