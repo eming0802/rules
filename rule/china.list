@@ -1,7 +1,9 @@
 # >>Emby流媒体
+
 # 佛系Emby
 DOMAIN,1.4545.cf
 # 垃圾影音
+DOMAIN,cf.emby.ml
 DOMAIN-SUFFIX,loseremby.org
 # AcEmby
 DOMAIN-SUFFIX,acemby.org
@@ -9,8 +11,6 @@ DOMAIN-SUFFIX,acemby.org
 DOMAIN-KEYWORD,ccemby
 # Misty
 DOMAIN-SUFFIX,misty.ltd
-# MisakaF
-DOMAIN-SUFFIX,misakaf.org
 # MJJEmby
 DOMAIN-SUFFIX,mjjemby.org
 # PoloEmby
@@ -18,10 +18,8 @@ DOMAIN-SUFFIX,poloemby.xyz
 DOMAIN-SUFFIX,pololine.ml
 
 # 影视
-DOMAIN-SUFFIX,ddys.art
-DOMAIN-SUFFIX,ddys.pro
-DOMAIN-SUFFIX,libvio.me
-DOMAIN-SUFFIX,libvio.fun
+DOMAIN-KEYWORD,ddys
+DOMAIN-KEYWORD,libvio
 DOMAIN-SUFFIX,c-zzy.com
 DOMAIN-SUFFIX,czspp.com
 DOMAIN-SUFFIX,czzzu.com
