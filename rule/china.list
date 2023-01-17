@@ -10,12 +10,12 @@ DOMAIN-SUFFIX,acemby.org
 # CcEmby
 DOMAIN-KEYWORD,ccemby
 # Misty
-DOMAIN-SUFFIX,misty.ltd
+DOMAIN-KEYWORD,misty
 # MJJEmby
-DOMAIN-SUFFIX,mjjemby.org
+DOMAIN-KEYWORD,mjjemby
 # PoloEmby
-DOMAIN-SUFFIX,poloemby.xyz
-DOMAIN-SUFFIX,pololine.ml
+DOMAIN-KEYWORD,poloemby
+DOMAIN-KEYWORD,pololine
 
 # 影视
 DOMAIN-KEYWORD,ddys
