@@ -4,9 +4,9 @@
 DOMAIN,1.4545.cf
 # 垃圾影音
 DOMAIN,cf.emby.ml
-DOMAIN-SUFFIX,loseremby.org
+DOMAIN-KEYWORD,loseremby
 # AcEmby
-DOMAIN-SUFFIX,acemby.org
+DOMAIN-KEYWORD,acemby
 # CcEmby
 DOMAIN-KEYWORD,ccemby
 # Misty
@@ -20,10 +20,10 @@ DOMAIN-KEYWORD,pololine
 # 影视
 DOMAIN-KEYWORD,ddys
 DOMAIN-KEYWORD,libvio
+DOMAIN-KEYWORD,cupfox
 DOMAIN-SUFFIX,c-zzy.com
 DOMAIN-SUFFIX,czspp.com
 DOMAIN-SUFFIX,czzzu.com
-DOMAIN-SUFFIX,cupfox.app
 DOMAIN-SUFFIX,omocdn.net
 DOMAIN-SUFFIX,sdk.alibaba.com.ailbaba.me
 
