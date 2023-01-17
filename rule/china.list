@@ -4,18 +4,18 @@
 DOMAIN,1.4545.cf
 # 垃圾影音
 DOMAIN,cf.emby.ml
-DOMAIN-KEYWORD,loseremby
+DOMAIN-SUFFIX,loseremby.org
 # AcEmby
-DOMAIN-KEYWORD,acemby
+DOMAIN-SUFFIX,acemby.org
 # CcEmby
 DOMAIN-KEYWORD,ccemby
 # Misty
-DOMAIN-KEYWORD,misty
+DOMAIN-SUFFIX,misty.ltd
 # MJJEmby
-DOMAIN-KEYWORD,mjjemby
+DOMAIN-SUFFIX,mjjemby.org
 # PoloEmby
-DOMAIN-KEYWORD,poloemby
-DOMAIN-KEYWORD,pololine
+DOMAIN-SUFFIX,poloemby.xyz
+DOMAIN-SUFFIX,pololine.ml
 
 # 影视网站
 DOMAIN-KEYWORD,ddys
