@@ -2,6 +2,8 @@
 
 # 佛系Emby
 DOMAIN,1.4545.cf
+# 威威服
+DOMAIN-SUFFIX,embyvip.org
 # 垃圾影音
 DOMAIN,cf.emby.ml
 DOMAIN-SUFFIX,loseremby.org
