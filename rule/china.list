@@ -36,6 +36,7 @@ DOMAIN-SUFFIX,omocdn.net
 DOMAIN-SUFFIX,sdk.alibaba.com.ailbaba.me
 
 # 其它
+DOMAIN,visa.cn
 DOMAIN,api.adguard.org
 DOMAIN-SUFFIX,outlook.com
 DOMAIN-SUFFIX,nvidia.com
