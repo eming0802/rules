@@ -13,6 +13,8 @@ DOMAIN-SUFFIX,loseremby.org
 DOMAIN-SUFFIX,acemby.org
 # CcEmby
 DOMAIN-KEYWORD,ccemby
+#Orange
+DOMAIN-SUFFIX,embytv.cf
 # Misty
 DOMAIN-SUFFIX,misty.ltd
 #MisakaF
