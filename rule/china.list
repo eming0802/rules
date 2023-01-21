@@ -10,6 +10,8 @@ DOMAIN,cf.emby.ml
 DOMAIN-SUFFIX,loseremby.org
 # AcEmby
 DOMAIN-SUFFIX,acemby.org
+#BlueSeaEmby
+DOMAIN-SUFFIX,bsem.ddns.me
 # CcEmby
 DOMAIN-KEYWORD,ccemby
 #Orange
