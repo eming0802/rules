@@ -10,15 +10,15 @@ DOMAIN,cf.emby.ml
 DOMAIN-SUFFIX,loseremby.org
 # AcEmby
 DOMAIN-SUFFIX,acemby.org
-#BlueSeaEmby
+# BlueSeaEmby
 DOMAIN-SUFFIX,bsem.ddns.me
 # CcEmby
 DOMAIN-KEYWORD,ccemby
-#Orange
+# Orange
 DOMAIN-SUFFIX,embytv.cf
 # Misty
 DOMAIN-SUFFIX,misty.ltd
-#MisakaF
+# MisakaF
 DOMAIN-SUFFIX,misakaf.org
 # MJJEmby
 DOMAIN-SUFFIX,mjjemby.org
