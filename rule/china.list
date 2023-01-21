@@ -7,12 +7,12 @@ DOMAIN-SUFFIX,nijigem.by
 # 威威服
 DOMAIN-SUFFIX,embyvip.org
 # 垃圾影音
-DOMAIN,cf.emby.ml
+DOMAIN-SUFFIX,emby.ml
 DOMAIN-SUFFIX,loseremby.org
 # AcEmby
 DOMAIN-SUFFIX,acemby.org
 # BlueSeaEmby
-DOMAIN-SUFFIX,bsem.ddns.me
+DOMAIN,bsem.ddns.me
 # CcEmby
 DOMAIN-KEYWORD,ccemby
 # Orange
