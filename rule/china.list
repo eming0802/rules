@@ -9,25 +9,26 @@ DOMAIN-SUFFIX,embyvip.org
 # 垃圾影音
 DOMAIN-SUFFIX,emby.ml
 DOMAIN-SUFFIX,loseremby.org
-# AcEmby
+# AC
 DOMAIN-SUFFIX,acemby.org
-# BlueSeaEmby
+# BlueSea
 DOMAIN,bsem.ddns.me
-# CcEmby
+# CC公益
 DOMAIN-KEYWORD,ccemby
 # Orange
 DOMAIN-SUFFIX,embytv.cf
-# Peach
-DOMAIN-SUFFIX,embymv.tk
+# MJJ
+DOMAIN-SUFFIX,mjjemby.org
 # Misty
 DOMAIN-SUFFIX,misty.ltd
 # MisakaF
 DOMAIN-SUFFIX,misakaf.org
-# MJJEmby
-DOMAIN-SUFFIX,mjjemby.org
-# PoloEmby
-DOMAIN-SUFFIX,poloemby.xyz
+# Polo
 DOMAIN-SUFFIX,pololine.ml
+DOMAIN-SUFFIX,poloemby.xyz
+# Peach
+DOMAIN-SUFFIX,embymv.tk
+
 
 # 影视网站
 DOMAIN-KEYWORD,ddys
