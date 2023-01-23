@@ -1,5 +1,3 @@
-# >>Emby流媒体
-DOMAIN-KEYWORD,emby
 # 卷毛鼠
 DOMAIN-KEYWORD,jmsooo
 # 二次元
@@ -21,7 +19,7 @@ DOMAIN-KEYWORD,misty
 # MisakaF
 DOMAIN-KEYWORD,misakaf
 # Nebula
-DOMAIN-SUFFIX,direct.nebula-emby.com
+DOMAIN-KEYWORD,nebula
 # Orange
 DOMAIN-KEYWORD,embytv
 # Polo
@@ -29,3 +27,5 @@ DOMAIN-KEYWORD,pololine
 DOMAIN-KEYWORD,poloemby
 # Peach
 DOMAIN-KEYWORD,embymv
+# Emby流媒体
+DOMAIN-KEYWORD,emby
