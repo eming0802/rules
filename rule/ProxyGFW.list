@@ -1,12 +1,15 @@
 # MyList && Other
+
+DOMAIN,shrtm.nu
+DOMAIN,sub.id9.cc
+DOMAIN,api.ipify.org
+DOMAIN,api-ipv4.ip.sb
 DOMAIN-SUFFIX,is.gd
-DOMAIN-SUFFIX,sub.id9.cc
-DOMAIN-SUFFIX,shrtm.nu
+DOMAIN-SUFFIX,vercel.app
 DOMAIN-SUFFIX,zodgame.xyz
 DOMAIN-SUFFIX,temp-mail.io
 DOMAIN-SUFFIX,ahhhhfs.com
 DOMAIN-SUFFIX,limbopro.com
-DOMAIN-SUFFIX,vercel.app
 DOMAIN-SUFFIX,keleofficial.com
 
 DOMAIN-SUFFIX,bit.no.com
@@ -50,6 +53,7 @@ DOMAIN-KEYWORD,telegram
 DOMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,whatsapp
 DOMAIN-KEYWORD,youtube
+DOMAIN-KEYWORD,nicegram
 
 # Top Blocked Sites
 DOMAIN-SUFFIX,4sqi.net
@@ -389,26 +393,28 @@ DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twimg.org
 
 # Telegram
-HOST-SUFFIX,comments.app
-HOST-SUFFIX,contest.com
-HOST-SUFFIX,graph.org
-HOST-SUFFIX,quiz.directory
-HOST-SUFFIX,stel.com
-HOST-SUFFIX,t.me
-HOST-SUFFIX,tdesktop.com
-HOST-SUFFIX,telega.one
-HOST-SUFFIX,telegra.ph
-HOST-SUFFIX,telegram-cdn.org
-HOST-SUFFIX,telegram.dog
-HOST-SUFFIX,telegram.me
-HOST-SUFFIX,telegram.org
-HOST-SUFFIX,telegram.space
-HOST-SUFFIX,telegramdownload.com
-HOST-SUFFIX,telesco.pe
-HOST-SUFFIX,tg.dev
-HOST-SUFFIX,tx.me
-HOST-SUFFIX,usercontent.dev
-HOST-KEYWORD,nicegram
+
+
+DOMAIN-SUFFIX,t.me
+DOMAIN-SUFFIX,tx.me
+DOMAIN-SUFFIX,tx.me
+DOMAIN-SUFFIX,tg.dev
+DOMAIN-SUFFIX,stel.com
+DOMAIN-SUFFIX,graph.org
+DOMAIN-SUFFIX,telegra.ph
+DOMAIN-SUFFIX,telesco.pe
+DOMAIN-SUFFIX,telega.one
+DOMAIN-SUFFIX,telegram.me
+DOMAIN-SUFFIX,contest.com
+DOMAIN-SUFFIX,telegram.org
+DOMAIN-SUFFIX,telegram.dog
+DOMAIN-SUFFIX,comments.app
+DOMAIN-SUFFIX,tdesktop.com
+DOMAIN-SUFFIX,telegram.space
+DOMAIN-SUFFIX,quiz.directory
+DOMAIN-SUFFIX,usercontent.dev
+DOMAIN-SUFFIX,telegram-cdn.org
+DOMAIN-SUFFIX,telegramdownload.com
 IP-CIDR,109.239.140.0/24,no-resolve
 IP-CIDR,149.154.160.0/20,no-resolve
 IP-CIDR,5.28.195.163/32,no-resolve
