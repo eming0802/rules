@@ -2,14 +2,17 @@
 
 DOMAIN,shrtm.nu
 DOMAIN,sub.id9.cc
-DOMAIN,api.ipify.org
-DOMAIN,api-ipv4.ip.sb
+
+DOMAIN-SUFFIX,ip.sb
 DOMAIN-SUFFIX,is.gd
+DOMAIN-SUFFIX,skk.moe
+DOMAIN-SUFFIX,ipify.org
+DOMAIN-SUFFIX,ip-api.com
 DOMAIN-SUFFIX,vercel.app
 DOMAIN-SUFFIX,zodgame.xyz
-DOMAIN-SUFFIX,temp-mail.io
 DOMAIN-SUFFIX,ahhhhfs.com
 DOMAIN-SUFFIX,limbopro.com
+DOMAIN-SUFFIX,temp-mail.io
 DOMAIN-SUFFIX,keleofficial.com
 
 DOMAIN-SUFFIX,bit.no.com
