@@ -11,12 +11,11 @@ DOMAIN-SUFFIX,omocdn.net
 DOMAIN-SUFFIX,sdk.alibaba.com.ailbaba.me
 
 # 其它
-DOMAIN-KEYWORD,fileball
-DOMAIN-KEYWORD,outlook.com
-DOMAIN-KEYWORD,nvidia.com
-DOMAIN-KEYWORD,geforce.com
 DOMAIN,api.adguard.org
-DOMAIN-SUFFIX,ip-api.com
+DOMAIN-KEYWORD,fileball
+DOMAIN-KEYWORD,nvidia.com
+DOMAIN-KEYWORD,outlook.com
+DOMAIN-KEYWORD,geforce.com
 
 # CF优选
 IP-CIDR,104.29.64.0/24,no-resolve
