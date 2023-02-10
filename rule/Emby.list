@@ -2,16 +2,18 @@
 DOMAIN-KEYWORD,jmsooo
 # 终点站
 #DOMAIN-KEYWORD,
+# 纸片人
+DOMAIN-KEYWORD,embyplus
 # 垃圾影音
 DOMAIN-KEYWORD,loseremby
-# AC
+# AcEmby
 DOMAIN-KEYWORD,acemby
 # BlueSea
 DOMAIN,bsem.ddns.me
 DOMAIN-KEYWORD,bluesea
-# CC
+# CC公益
 DOMAIN-KEYWORD,ccemby
-# HXD
+# Hxd
 DOMAIN-KEYWORD,222921
 # MJJ
 DOMAIN-KEYWORD,mjjemby
