@@ -1,9 +1,3 @@
-# 卷毛鼠
-DOMAIN-KEYWORD,jmsooo
-# 纸片人
-DOMAIN-KEYWORD,embyplus
-# 垃圾影音
-DOMAIN-KEYWORD,loseremby
 # AC
 DOMAIN-KEYWORD,acemby
 # BlueSea
@@ -28,5 +22,13 @@ DOMAIN-KEYWORD,poloemby
 DOMAIN-KEYWORD,embymv
 # StudyFun
 DOMAIN-KEYWORD,studyfun
+# 威威
+DOMAIN-KEYWORD,embyvip
+# 卷毛鼠
+DOMAIN-KEYWORD,jmsooo
+# 纸片人
+DOMAIN-KEYWORD,embyplus
+# 垃圾影音
+DOMAIN-KEYWORD,loseremby
 # Emby流媒体
 DOMAIN-KEYWORD,emby
