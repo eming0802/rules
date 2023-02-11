@@ -1,7 +1,5 @@
 # 卷毛鼠
 DOMAIN-KEYWORD,jmsooo
-# 终点站
-#DOMAIN-KEYWORD,
 # 纸片人
 DOMAIN-KEYWORD,embyplus
 # 垃圾影音
@@ -28,5 +26,7 @@ DOMAIN-KEYWORD,pololine
 DOMAIN-KEYWORD,poloemby
 # Peach
 DOMAIN-KEYWORD,embymv
+# Studyfun
+DOMAIN-KEYWORD,studyfun
 # Emby流媒体
 DOMAIN-KEYWORD,emby
