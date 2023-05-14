@@ -9,7 +9,7 @@ DOMAIN-KEYWORD,misakaf
 # Mulgore
 DOMAIN-KEYWORD,mulgore
 # Nebula
-DOMAIN-KEYWORD,direct.nebula-emby.com
+DOMAIN-SUFFIX,direct.nebula-emby.com
 # Orange
 DOMAIN-KEYWORD,embytv
 # Peach
@@ -24,5 +24,3 @@ DOMAIN-KEYWORD,jmsooo
 DOMAIN-KEYWORD,embyplus
 # 垃圾影音
 DOMAIN-KEYWORD,loseremby
-# Emby流媒体
-DOMAIN-KEYWORD,emby
