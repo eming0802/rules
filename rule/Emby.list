@@ -28,3 +28,5 @@ DOMAIN-SUFFIX,emby.wtf
 DOMAIN-KEYWORD,embyplus
 # 垃圾影音
 DOMAIN-KEYWORD,loseremby
+# Emby流媒体
+DOMAIN-KEYWORD,emby
