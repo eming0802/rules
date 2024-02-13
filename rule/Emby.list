@@ -20,3 +20,5 @@ DOMAIN-SUFFIX,xmsl.org
 DOMAIN-SUFFIX,loseremby.org
 # Emby流媒体
 DOMAIN-KEYWORD,emby
+IP-CIDR,104.19.205.87/32,no-resolve
+IP-CIDR,104.17.178.124/32,no-resolve
