@@ -18,8 +18,3 @@ DOMAIN-SUFFIX,9521732.xyz
 # 垃圾影音
 DOMAIN-SUFFIX,xmsl.org
 DOMAIN-SUFFIX,loseremby.org
-# CF优选
-IP-CIDR,104.19.205.87/32,no-resolve
-IP-CIDR,104.17.178.124/32,no-resolve
-IP-CIDR,104.17.249.80/32,no-resolve
-IP-CIDR,104.17.240.45/32,no-resolve
