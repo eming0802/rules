@@ -13,7 +13,7 @@ DOMAIN-SUFFIX,jmsooo.com
 # 终点站
 DOMAIN-SUFFIX,emby.wtf
 # 纸片人
-DOMAIN-SUFFIX,embyplus.org
+DOMAIN,emby.embyplus.org
 DOMAIN-SUFFIX,9521732.xyz
 # 垃圾影音
 DOMAIN-SUFFIX,xmsl.org
