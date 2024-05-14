@@ -9,18 +9,12 @@ DOMAIN-SUFFIX,embyplus.org
 DOMAIN-SUFFIX,9521732.xyz
 # 垃圾影音
 DOMAIN-SUFFIX,xmsl.org
-DOMAIN-SUFFIX,loseremby.org
 DOMAIN-SUFFIX,gtlx.org
+DOMAIN-SUFFIX,loseremby.org
 # PiliPili
 DOMAIN-SUFFIX,pilipiliultra.top
-DOMAIN,emby.pilipiliultra.com
+DOMAIN-SUFFIX,pilipiliultra.com
 # MisakaF
-DOMAIN,emby.misakaf.org
-DOMAIN,stream1.misakaf.org
-DOMAIN,stream2.misakaf.org
-DOMAIN,stream3.misakaf.org
-DOMAIN,stream4.misakaf.org
-DOMAIN,emby.aca.best
-DOMAIN,porn.aca.best
-# TreeDiagram
 DOMAIN,789.123456.al
+DOMAIN-SUFFIX,aca.best
+DOMAIN-SUFFIX,misakaf.org
