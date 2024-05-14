@@ -2,8 +2,13 @@
 DOMAIN-SUFFIX,pilipiliultra.top
 DOMAIN,emby.pilipiliultra.com
 # MisakaF
-DOMAIN-SUFFIX,misakaf.org
-DOMAIN-SUFFIX,aca.best
+DOMAIN,emby.misakaf.org
+DOMAIN,stream1.misakaf.org
+DOMAIN,stream2.misakaf.org
+DOMAIN,stream3.misakaf.org
+DOMAIN,stream4.misakaf.org
+DOMAIN,emby.aca.best
+DOMAIN,porn.aca.best
 # TreeDiagram
 DOMAIN,789.123456.al
 # 威威
