@@ -15,8 +15,6 @@ geox-url:
   mmdb: "https://cdn.jsdelivr.net/gh/Hackl0us/GeoIP2-CN@release/Country.mmdb"
   asn: "https://cdn.jsdelivr.net/gh/Loyalsoldier/geoip@release/Country-asn.mmdb"
 
-
-
 dns:
   enable: true
   prefer-h3: true
