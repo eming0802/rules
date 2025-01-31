@@ -16,9 +16,3 @@ DOMAIN-KEYWORD,fileball
 DOMAIN-KEYWORD,nvidia.com
 DOMAIN-KEYWORD,outlook.com
 DOMAIN-KEYWORD,geforce.com
-
-# CF优选
-#Ip-CIDR,104.19.205.87/32,no-resolve
-#IP-CIDR,104.17.178.124/32,no-resolve
-#IP-CIDR,104.17.249.80/32,no-resolve
-#IP-CIDR,104.17.240.45/32,no-resolve
