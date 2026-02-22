@@ -8,11 +8,10 @@ DOMAIN-SUFFIX,c-zzy.com
 DOMAIN-SUFFIX,czspp.com
 DOMAIN-SUFFIX,czzzu.com
 DOMAIN-SUFFIX,omocdn.net
-DOMAIN-SUFFIX,sdk.alibaba.com.ailbaba.me
-
 # 其它
 DOMAIN,api.adguard.org
 DOMAIN-KEYWORD,fileball
 DOMAIN-KEYWORD,nvidia.com
 DOMAIN-KEYWORD,outlook.com
 DOMAIN-KEYWORD,geforce.com
+DOMAIN-KEYWORD,retrogamesnexus
