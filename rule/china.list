@@ -9,8 +9,8 @@ DOMAIN-SUFFIX,czzzu.com
 DOMAIN-SUFFIX,omocdn.net
 # 其它
 DOMAIN-KEYWORD,fileball
-DOMAIN-KEYWORD,nvidia.com
-DOMAIN-KEYWORD,outlook.com
-DOMAIN-KEYWORD,geforce.com
+DOMAIN-SUFFIX,nvidia.com
+DOMAIN-SUFFIX,outlook.com
+DOMAIN-SUFFIX,geforce.com
 DOMAIN-KEYWORD,retrogamesnexus
 DOMAIN-SUFFIX,dpdns.org
