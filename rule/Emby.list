@@ -1,9 +1,6 @@
-# 影迹
-DOMAIN-SUFFIX,cinetrail.live
+
 # 星影
 DOMAIN-SUFFIX,xying1314.xyz
-# 星云
-DOMAIN-SUFFIX,nebula-media.org
 # 终点站
 DOMAIN-SUFFIX,emby.wtf
 # 纸片人
@@ -24,5 +21,11 @@ DOMAIN-SUFFIX,ichinosekotomi.com
 DOMAIN-SUFFIX,okemby.org
 # Gousen
 DOMAIN-SUFFIX,gousen.cc.cd
+# Nebula
+DOMAIN-SUFFIX,nebula-media.org
+# NyaMedia
+DOMAIN-SUFFIX,bangumi.ca
+# CineTrail
+DOMAIN-SUFFIX,cinetrail.live
 # PiliPili
 DOMAIN-SUFFIX,pilipiliultra.com
